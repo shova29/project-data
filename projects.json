@@ -13,7 +13,6 @@
     "image1": "https://i.ibb.co/7XRvYxF/Britney-Spears-Midnight-Fantasy-Women-EDP-30ml.png",
     "image2": "https://i.ibb.co/7XRvYxF/Britney-Spears-Midnight-Fantasy-Women-EDP-30ml.png",
     "image3": "https://i.ibb.co/7XRvYxF/Britney-Spears-Midnight-Fantasy-Women-EDP-30ml.png",
-
     "tech1": "React JS",
     "tech2": "Tailwind CSS ",
     "tech3": "React Router",
@@ -43,7 +42,7 @@
     "image2": "https://i.ibb.co/7XRvYxF/Britney-Spears-Midnight-Fantasy-Women-EDP-30ml.png",
     "image3": "https://i.ibb.co/7XRvYxF/Britney-Spears-Midnight-Fantasy-Women-EDP-30ml.png",
     "tech1": "React JS",
-    "tech2": "Tailwind CSS ",
+    "tech2": "Tailwind CSS",
     "tech3": "React Router",
     "tech4": "Firebase Authentication",
     "tech5": "React-hook-form",
