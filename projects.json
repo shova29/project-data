@@ -15,18 +15,18 @@
     "image1": "https://i.ibb.co/Fx3Nmm2/project-1.png",
     "image2": "https://i.ibb.co/Qjz907t/winged-wheels-1.png",
     "image3": "https://i.ibb.co/MshLKX7/winged-wheels-2.png",
-    "tech": {
-      "tech1": "React JS",
-      "tech2": "Tailwind CSS ",
-      "tech3": "React Router",
-      "tech4": "Firebase Authentication",
-      "tech5": "React-hook-form",
-      "tech6": "Node JS",
-      "tech7": "Express JS",
-      "tech8": "React-Query",
-      "tech9": "React Stripe Js",
-      "tech10": "MongoDB"
-    },
+    "tech": [
+      { "label": "React JS", "value": 1, "color": "red" },
+      { "label": "Tailwind CSS", "value": 2, "color": "green" },
+      { "label": "React Router", "value": 3, "color": "blue" },
+      { "label": "Firebase Authentication", "value": 4, "color": "indigo" },
+      { "label": "React-hook-form", "value": 5, "color": "blue" },
+      { "label": "Node JS", "value": 6, "color": "blue" },
+      { "label": "Express JS", "value": 7, "color": "blue" },
+      { "label": "React-Query", "value": 8, "color": "blue" },
+      { "label": "React Stripe Js", "value": 9, "color": "blue" },
+      { "label": "MongoDB", "value": 10, "color": "blue" }
+    ],
     "live": "https://bicycle-manufacturer-website.web.app/",
     "client": "https://github.com/shova29/manufacturer-website-client-side",
     "server": "https://github.com/shova29/manufacturer-website-server-side"
@@ -47,17 +47,17 @@
     "image1": "https://i.ibb.co/tKg0JPp/project-2.png",
     "image2": "https://i.ibb.co/k4DSZV0/purfume-pungent-1.png",
     "image3": "https://i.ibb.co/RPCydSp/purfume-pungent-2.png",
-    "tech": {
-      "tech1": "React JS",
-      "tech2": "Tailwind CSS",
-      "tech3": "React Router",
-      "tech4": "Firebase Authentication",
-      "tech5": "React-hook-form",
-      "tech6": "Node JS",
-      "tech7": "Express JS",
-      "tech8": "Axios",
-      "tech9": "MongoDB"
-    },
+    "tech": [
+      { "label": "React JS", "value": 1, "color": "red" },
+      { "label": "Tailwind CSS", "value": 2, "color": "green" },
+      { "label": "React Router", "value": 3, "color": "blue" },
+      { "label": "Firebase Authentication", "value": 4, "color": "indigo" },
+      { "label": "React-hook-form", "value": 5, "color": "blue" },
+      { "label": "Node JS", "value": 6, "color": "blue" },
+      { "label": "Express JS", "value": 7, "color": "blue" },
+      { "label": "Axios", "value": 8, "color": "blue" },
+      { "label": "MongoDB", "value": 9, "color": "blue" }
+    ],
     "live": "https://warehouse-management-web-2b489.web.app/",
     "client": "https://github.com/shova29/warehouse-management-client-side",
     "server": "https://github.com/shova29/warehouse-management-server-side"
@@ -73,20 +73,22 @@
       "des2": "There are available 6 services for the wild photography. These are as follows environmental, portraits, nature, motion, shadows & light, and fire & ice.",
       "des3": "The Blog page contains three blogs.The About page provides the information about the developer",
       "des4": "User can Create an Account and Signin via Firebase authentication. User can  also Signin via Google signin or Github signin.",
-      "des5": "Users can book Environmental, Portraits, Nature, Motion, Shadows & Light, and Fire & Ice for photography.Clicking on the book now button it will take user to checkout.",
-      "img": "https://i.ibb.co/PMttRwD/project-3.png"
+      "des5": "Users can book Environmental, Portraits, Nature, Motion, Shadows & Light, and Fire & Ice for photography.Clicking on the book now button it will take user to checkout."
     },
+    "img": "https://i.ibb.co/PMttRwD/project-3.png",
     "image1": "https://i.ibb.co/PMttRwD/project-3.png",
     "image2": "https://i.ibb.co/M98kjsv/wildquestlens-1.png",
     "image3": " https://i.ibb.co/v4WjKhc/wildquestlens-2.png",
-    "tech": {
-      "tech1": "React JS",
-      "tech2": "React Bootstrap",
-      "tech3": "React Router",
-      "tech4": "Firebase Authentication",
-      "tech5": "React Toastify",
-      "tech6": "React Icons"
-    },
+    "tech": [
+      { "label": "React JS", "value": 1, "color": "red" },
+      { "label": "React Bootstrap", "value": 2, "color": "green" },
+      { "label": "React Router", "value": 3, "color": "blue" },
+      { "label": "Firebase Authentication", "value": 4, "color": "indigo" },
+      { "label": "React Toastify", "value": 6, "color": "blue" },
+      { "label": "React Icons", "value": 7, "color": "blue" },
+      { "label": "Axios", "value": 8, "color": "blue" },
+      { "label": "MongoDB", "value": 9, "color": "blue" }
+    ],
     "live": "https://independent-service-prov-a1011.web.app/",
     "client": "https://github.com/shova29/independent-service-provider"
   },
@@ -107,11 +109,11 @@
     "image1": "https://i.ibb.co/0qcsRPN/project-4.png",
     "image2": "https://i.ibb.co/60zjpB2/sunglass-sanctury-1.png",
     "image3": "https://i.ibb.co/qFDsrHs/sunglass-sanctury-2.png",
-    "tech": {
-      "tech1": "React",
-      "tech2": "Tailwind",
-      "tech3": "Recharts"
-    },
+    "tech": [
+      { "label": "React JS", "value": 1, "color": "red" },
+      { "label": "Tailwind CSS", "value": 2, "color": "green" },
+      { "label": "Recharts", "value": 3, "color": "blue" }
+    ],
     "live": "https://product-analysis-shova29.netlify.app/",
     "client": "https://github.com/shova29/product-analysis-website"
   },
@@ -133,11 +135,11 @@
     "image3": "https://i.ibb.co/CBPLrCZ/crapemyrtle-3.png",
     "image4": "https://i.ibb.co/hHbZ8hS/crapemyrtle-4.png",
     "image5": "https://i.ibb.co/svX6sDs/crapemyrtle-5.png",
-    "tech": {
-      "tech1": "HTML",
-      "tech2": "CSS",
-      "tech3": "Bootstrap5"
-    },
+    "tech": [
+      { "label": "HTML", "value": 1, "color": "red" },
+      { "label": "CSS", "value": 2, "color": "green" },
+      { "label": "Bootstrap5", "value": 3, "color": "blue" }
+    ],
     "live": "https://crapemyrtle-convention-center-shova29.netlify.app/",
     "client": "https://github.com/shova29/crapemyrtle-convention-center-shova29"
   }
