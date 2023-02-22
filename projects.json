@@ -98,5 +98,26 @@
     "tech3": "Recharts",
     "live": "https://product-analysis-shova29.netlify.app/",
     "client": "https://github.com/shova29/product-analysis-website"
+  },
+  {
+    "id": 5,
+    "name": "CrapeMyrtle Convention Center",
+    "text": "Event Website",
+    "shortDes": "This project is about convention center packages on the CrapeMyrtle Convention Center.",
+    "des1": "The Home page is consists of header section and event's facility",
+    "des2": "The Packages section has several packages of convention center",
+    "des3": "The Gallery section is about client's event diary.",
+    "des4": "The Frequently Asked Question is also available.",
+    "des5": "This project also has Subscribe section.",
+    "img": "https://ibb.co/C9tfx6p",
+    "image1": "https://ibb.co/z4Wh0DH",
+    "image2": "https://ibb.co/6YXQd9x",
+    "image4": "https://ibb.co/gwNPgHx",
+    "image5": "https://ibb.co/tM1xYNY",
+    "tech1": "HTML",
+    "tech2": "CSS",
+    "tech3": "Bootstrap5",
+    "live": "https://crapemyrtle-convention-center-shova29.netlify.app/",
+    "client": "https://github.com/shova29/crapemyrtle-convention-center-shova29"
   }
 ]
