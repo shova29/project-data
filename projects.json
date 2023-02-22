@@ -19,7 +19,11 @@
       { "label": "React JS", "value": 1, "color": "darksalmon" },
       { "label": "Tailwind CSS", "value": 2, "color": "darkseagreen" },
       { "label": "React Router", "value": 3, "color": "darkorchid" },
-      { "label": "Firebase Authentication", "value": 4, "color": "honeydew" },
+      {
+        "label": "Firebase Authentication",
+        "value": 4,
+        "color": "midnightblue"
+      },
       { "label": "React-hook-form", "value": 5, "color": "indianred" },
       { "label": "Node JS", "value": 6, "color": "lightgreen" },
       { "label": "Express JS", "value": 7, "color": "lightseagreen" },
@@ -51,7 +55,11 @@
       { "label": "React JS", "value": 1, "color": "darksalmon" },
       { "label": "Tailwind CSS", "value": 2, "color": "darkseagreen" },
       { "label": "React Router", "value": 3, "color": "darkorchid" },
-      { "label": "Firebase Authentication", "value": 4, "color": "honeydew" },
+      {
+        "label": "Firebase Authentication",
+        "value": 4,
+        "color": "midnightblue"
+      },
       { "label": "React-hook-form", "value": 5, "color": "indianred" },
       { "label": "Node JS", "value": 6, "color": "lightgreen" },
       { "label": "Express JS", "value": 7, "color": "lightseagreen" },
@@ -82,7 +90,11 @@
       { "label": "React JS", "value": 1, "color": "darksalmon" },
       { "label": "React Bootstrap", "value": 2, "color": "darkseagreen" },
       { "label": "React Router", "value": 3, "color": "darkorchid" },
-      { "label": "Firebase Authentication", "value": 4, "color": "honeydew" },
+      {
+        "label": "Firebase Authentication",
+        "value": 4,
+        "color": "midnightblue"
+      },
       { "label": "React Toastify", "value": 5, "color": "indianred" },
       { "label": "React Icons", "value": 6, "color": "lightgreen" },
       { "label": "Axios", "value": 7, "color": "lightseagreen" },
