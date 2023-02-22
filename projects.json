@@ -4,13 +4,21 @@
     "name": "Winged Wheels",
     "text": "Manufacturer Management Website",
     "shortDes": "This is a full-stack website about Winged Wheels Manufacturer management website where bicycle parts that are stored and managed.",
-    "des": {
-      "des1": "Register/Login using the Email-Password-Based and Social authentication system.",
-      "des2": "There is a separate functionality for users and admin’s on the dashboard. ",
-      "des3": "An Admin can make another user as an admin, able to add a product, can change order status, and delete a product.",
-      "des4": "Users can order through React-Stripe-JS payment system integration and give their review.",
-      "des5": "Users can change the order of quantity."
-    },
+    "des": [
+      {
+        "label": "Register/Login using the Email-Password-Based and Social authentication system."
+      },
+      {
+        "label": "There is a separate functionality for users and admin’s on the dashboard."
+      },
+      {
+        "label": "An Admin can make another user as an admin, able to add a product, can change order status, and delete a product."
+      },
+      {
+        "label": "Users can order through React-Stripe-JS payment system integration and give their review."
+      },
+      { "label": "Users can change the order of quantity." }
+    ],
     "img": "https://i.ibb.co/Fx3Nmm2/project-1.png",
     "image1": "https://i.ibb.co/Fx3Nmm2/project-1.png",
     "image2": "https://i.ibb.co/Qjz907t/winged-wheels-1.png",
@@ -24,12 +32,12 @@
         "value": 4,
         "color": "midnightblue"
       },
-      { "label": "React-hook-form", "value": 5, "color": "indianred" },
+      { "label": "React-hook-form", "value": 5, "color": "darkslateblue" },
       { "label": "Node JS", "value": 6, "color": "mediumvioletred" },
       { "label": "Express JS", "value": 7, "color": "lightseagreen" },
-      { "label": "React-Query", "value": 8, "color": "darksalmon" },
-      { "label": "React Stripe Js", "value": 9, "color": "orchid" },
-      { "label": "MongoDB", "value": 10, "color": "moccasin" }
+      { "label": "React-Query", "value": 8, "color": "coral" },
+      { "label": "React Stripe Js", "value": 9, "color": "orange" },
+      { "label": "MongoDB", "value": 10, "color": "gold" }
     ],
     "live": "https://bicycle-manufacturer-website.web.app/",
     "client": "https://github.com/shova29/manufacturer-website-client-side",
@@ -40,13 +48,23 @@
     "name": "Perfume Pungent",
     "text": "Warehouse Management Website",
     "shortDes": "This is a full-stack website about Perfume Pungent Warehouse management website where multiple inventory items that are managed.",
-    "des": {
-      "des1": "Sign-up and Sign-in using the Email-Password-Based and Social Sign-in authentication system",
-      "des2": "The Inventory page contains all the stocked items of warehouse.",
-      "des3": "There are available 2 categories of the perfume. One is Men's Perfume and another is Women's Perfume.",
-      "des4": "An item can be restocked and delivered on the inventory/:id route. Also, an item can be deleted and added.",
-      "des5": "The About page provides the information about the Perfume Pungent Warehouse. The Blogs page contains three blogs."
-    },
+    "des": [
+      {
+        "label": "Sign-up and Sign-in using the Email-Password-Based and Social Sign-in authentication system"
+      },
+      {
+        "label": "The Inventory page contains all the stocked items of warehouse."
+      },
+      {
+        "label": "There are available 2 categories of the perfume. One is Men's Perfume and another is Women's Perfume."
+      },
+      {
+        "label": "An item can be restocked and delivered on the inventory/:id route. Also, an item can be deleted and added."
+      },
+      {
+        "label": "The About page provides the information about the Perfume Pungent Warehouse. The Blogs page contains three blogs."
+      }
+    ],
     "img": "https://i.ibb.co/tKg0JPp/project-2.png",
     "image1": "https://i.ibb.co/tKg0JPp/project-2.png",
     "image2": "https://i.ibb.co/k4DSZV0/purfume-pungent-1.png",
@@ -60,11 +78,11 @@
         "value": 4,
         "color": "midnightblue"
       },
-      { "label": "React-hook-form", "value": 5, "color": "indianred" },
+      { "label": "React-hook-form", "value": 5, "color": "darkslateblue" },
       { "label": "Node JS", "value": 6, "color": "mediumvioletred" },
       { "label": "Express JS", "value": 7, "color": "lightseagreen" },
-      { "label": "Axios", "value": 8, "color": "darksalmon" },
-      { "label": "MongoDB", "value": 9, "color": "orchid" }
+      { "label": "Axios", "value": 8, "color": "coral" },
+      { "label": "MongoDB", "value": 9, "color": "orange" }
     ],
     "live": "https://warehouse-management-web-2b489.web.app/",
     "client": "https://github.com/shova29/warehouse-management-client-side",
@@ -75,13 +93,23 @@
     "name": "WildQuestLens",
     "text": "Independent Service Provider Website",
     "shortDes": "WildQuestLens website is about wild photography which provides independent service.",
-    "des": {
-      "des1": "The Home page is consists of header section, banner section, services section, award section, image of the month section, and footer section.",
-      "des2": "There are available 6 services for the wild photography. These are as follows environmental, portraits, nature, motion, shadows & light, and fire & ice.",
-      "des3": "The Blog page contains three blogs.The About page provides the information about the developer",
-      "des4": "User can Create an Account and Signin via Firebase authentication. User can  also Signin via Google signin or Github signin.",
-      "des5": "Users can book Environmental, Portraits, Nature, Motion, Shadows & Light, and Fire & Ice for photography.Clicking on the book now button it will take user to checkout."
-    },
+    "des": [
+      {
+        "label": "The Home page is consists of header section, banner section, services section, award section, image of the month section, and footer section."
+      },
+      {
+        "label": "There are available 6 services for the wild photography. These are as follows environmental, portraits, nature, motion, shadows & light, and fire & ice."
+      },
+      {
+        "label": "The Blog page contains three blogs.The About page provides the information about the developer"
+      },
+      {
+        "label": "User can Create an Account and Signin via Firebase authentication. User can  also Signin via Google signin or Github signin."
+      },
+      {
+        "label": "Users can book Environmental, Portraits, Nature, Motion, Shadows & Light, and Fire & Ice for photography.Clicking on the book now button it will take user to checkout."
+      }
+    ],
     "img": "https://i.ibb.co/PMttRwD/project-3.png",
     "image1": "https://i.ibb.co/PMttRwD/project-3.png",
     "image2": "https://i.ibb.co/M98kjsv/wildquestlens-1.png",
@@ -95,10 +123,10 @@
         "value": 4,
         "color": "midnightblue"
       },
-      { "label": "React Toastify", "value": 5, "color": "indianred" },
+      { "label": "React Toastify", "value": 5, "color": "darkslateblue" },
       { "label": "React Icons", "value": 6, "color": "mediumvioletred" },
       { "label": "Axios", "value": 7, "color": "lightseagreen" },
-      { "label": "MongoDB", "value": 8, "color": "darksalmon" }
+      { "label": "MongoDB", "value": 8, "color": "coral" }
     ],
     "live": "https://independent-service-prov-a1011.web.app/",
     "client": "https://github.com/shova29/independent-service-provider"
@@ -109,13 +137,19 @@
     "name": "Sunglass Sanctuary",
     "text": "Product Analysis Website",
     "shortDes": "This project is about product reviews on the Sunglass Sanctuary website.",
-    "des": {
-      "des1": "The Home page is consists of header section and customer reviews. There are available 3 customer reviews on this page.",
-      "des2": "The Reviews page has several reviews from the customer along with their image, review, and ratings.",
-      "des3": "The Dashboard page has four different types of charts which are Line Chart, Area Chart, Bar chart, and Pie Chart. Those charts are made with recharts library and data were given from month-wise sell JSON-data.",
-      "des4": "The Blogs page contains two blogs.",
-      "des5": "This project also has about page."
-    },
+    "des": [
+      {
+        "label": "The Home page is consists of header section and customer reviews. There are available 3 customer reviews on this page."
+      },
+      {
+        "label": "The Reviews page has several reviews from the customer along with their image, review, and ratings."
+      },
+      {
+        "label": "The Dashboard page has four different types of charts which are Line Chart, Area Chart, Bar chart, and Pie Chart. Those charts are made with recharts library and data were given from month-wise sell JSON-data."
+      },
+      { "label": "The Blogs page contains two blogs." },
+      { "label": "This project also has about page." }
+    ],
     "img": "https://i.ibb.co/0qcsRPN/project-4.png",
     "image1": "https://i.ibb.co/0qcsRPN/project-4.png",
     "image2": "https://i.ibb.co/60zjpB2/sunglass-sanctury-1.png",
@@ -133,13 +167,17 @@
     "name": "CrapeMyrtle Convention Center",
     "text": "Event Website",
     "shortDes": "This project is about convention center packages on the CrapeMyrtle Convention Center.",
-    "des": {
-      "des1 ": "The Home page is consists of header section and event's facility",
-      "des2": "The Packages section has several packages of convention center",
-      "des3": "The Gallery section is about client's event diary.",
-      "des4": "The Frequently Asked Question is also available.",
-      "des5": "This project also has Subscribe section."
-    },
+    "des": [
+      {
+        "label ": "The Home page is consists of header section and event's facility"
+      },
+      {
+        "label": "The Packages section has several packages of convention center"
+      },
+      { "label": "The Gallery section is about client's event diary." },
+      { "label": "The Frequently Asked Question is also available." },
+      { "label": "This project also has Subscribe section." }
+    ],
     "img": "https://i.ibb.co/x7sCRqq/project-5.png",
     "image1": "https://i.ibb.co/x7sCRqq/project-5.png",
     "image2": "https://i.ibb.co/3C5yLQY/crapemyrtle-2.png",
