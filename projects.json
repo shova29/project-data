@@ -16,16 +16,16 @@
     "image2": "https://i.ibb.co/Qjz907t/winged-wheels-1.png",
     "image3": "https://i.ibb.co/MshLKX7/winged-wheels-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "red" },
-      { "label": "Tailwind CSS", "value": 2, "color": "green" },
-      { "label": "React Router", "value": 3, "color": "blue" },
-      { "label": "Firebase Authentication", "value": 4, "color": "indigo" },
-      { "label": "React-hook-form", "value": 5, "color": "blue" },
-      { "label": "Node JS", "value": 6, "color": "blue" },
-      { "label": "Express JS", "value": 7, "color": "blue" },
-      { "label": "React-Query", "value": 8, "color": "blue" },
-      { "label": "React Stripe Js", "value": 9, "color": "blue" },
-      { "label": "MongoDB", "value": 10, "color": "blue" }
+      { "label": "React JS", "value": 1, "color": "darksalmon" },
+      { "label": "Tailwind CSS", "value": 2, "color": "darkseagreen" },
+      { "label": "React Router", "value": 3, "color": "darkorchid" },
+      { "label": "Firebase Authentication", "value": 4, "color": "honeydew" },
+      { "label": "React-hook-form", "value": 5, "color": "indianred" },
+      { "label": "Node JS", "value": 6, "color": "lightgreen" },
+      { "label": "Express JS", "value": 7, "color": "lightseagreen" },
+      { "label": "React-Query", "value": 8, "color": "lightsalmon" },
+      { "label": "React Stripe Js", "value": 9, "color": "lightblue" },
+      { "label": "MongoDB", "value": 10, "color": "moccasin" }
     ],
     "live": "https://bicycle-manufacturer-website.web.app/",
     "client": "https://github.com/shova29/manufacturer-website-client-side",
@@ -48,21 +48,20 @@
     "image2": "https://i.ibb.co/k4DSZV0/purfume-pungent-1.png",
     "image3": "https://i.ibb.co/RPCydSp/purfume-pungent-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "red" },
-      { "label": "Tailwind CSS", "value": 2, "color": "green" },
-      { "label": "React Router", "value": 3, "color": "blue" },
-      { "label": "Firebase Authentication", "value": 4, "color": "indigo" },
-      { "label": "React-hook-form", "value": 5, "color": "blue" },
-      { "label": "Node JS", "value": 6, "color": "blue" },
-      { "label": "Express JS", "value": 7, "color": "blue" },
-      { "label": "Axios", "value": 8, "color": "blue" },
-      { "label": "MongoDB", "value": 9, "color": "blue" }
+      { "label": "React JS", "value": 1, "color": "darksalmon" },
+      { "label": "Tailwind CSS", "value": 2, "color": "darkseagreen" },
+      { "label": "React Router", "value": 3, "color": "darkorchid" },
+      { "label": "Firebase Authentication", "value": 4, "color": "honeydew" },
+      { "label": "React-hook-form", "value": 5, "color": "indianred" },
+      { "label": "Node JS", "value": 6, "color": "lightgreen" },
+      { "label": "Express JS", "value": 7, "color": "lightseagreen" },
+      { "label": "Axios", "value": 8, "color": "lightsalmon" },
+      { "label": "MongoDB", "value": 9, "color": "lightblue" }
     ],
     "live": "https://warehouse-management-web-2b489.web.app/",
     "client": "https://github.com/shova29/warehouse-management-client-side",
     "server": "https://github.com/shova29/warehouse-management-server-side"
   },
-
   {
     "id": 3,
     "name": "WildQuestLens",
@@ -80,14 +79,14 @@
     "image2": "https://i.ibb.co/M98kjsv/wildquestlens-1.png",
     "image3": " https://i.ibb.co/v4WjKhc/wildquestlens-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "red" },
-      { "label": "React Bootstrap", "value": 2, "color": "green" },
-      { "label": "React Router", "value": 3, "color": "blue" },
-      { "label": "Firebase Authentication", "value": 4, "color": "indigo" },
-      { "label": "React Toastify", "value": 6, "color": "blue" },
-      { "label": "React Icons", "value": 7, "color": "blue" },
-      { "label": "Axios", "value": 8, "color": "blue" },
-      { "label": "MongoDB", "value": 9, "color": "blue" }
+      { "label": "React JS", "value": 1, "color": "darksalmon" },
+      { "label": "React Bootstrap", "value": 2, "color": "darkseagreen" },
+      { "label": "React Router", "value": 3, "color": "darkorchid" },
+      { "label": "Firebase Authentication", "value": 4, "color": "honeydew" },
+      { "label": "React Toastify", "value": 5, "color": "indianred" },
+      { "label": "React Icons", "value": 6, "color": "lightgreen" },
+      { "label": "Axios", "value": 7, "color": "lightseagreen" },
+      { "label": "MongoDB", "value": 8, "color": "lightsalmon" }
     ],
     "live": "https://independent-service-prov-a1011.web.app/",
     "client": "https://github.com/shova29/independent-service-provider"
@@ -110,9 +109,9 @@
     "image2": "https://i.ibb.co/60zjpB2/sunglass-sanctury-1.png",
     "image3": "https://i.ibb.co/qFDsrHs/sunglass-sanctury-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "red" },
-      { "label": "Tailwind CSS", "value": 2, "color": "green" },
-      { "label": "Recharts", "value": 3, "color": "blue" }
+      { "label": "React JS", "value": 1, "color": "darksalmon" },
+      { "label": "Tailwind CSS", "value": 2, "color": "darkseagreen" },
+      { "label": "Recharts", "value": 3, "color": "darkorchid" }
     ],
     "live": "https://product-analysis-shova29.netlify.app/",
     "client": "https://github.com/shova29/product-analysis-website"
@@ -136,9 +135,9 @@
     "image4": "https://i.ibb.co/hHbZ8hS/crapemyrtle-4.png",
     "image5": "https://i.ibb.co/svX6sDs/crapemyrtle-5.png",
     "tech": [
-      { "label": "HTML", "value": 1, "color": "red" },
-      { "label": "CSS", "value": 2, "color": "green" },
-      { "label": "Bootstrap5", "value": 3, "color": "blue" }
+      { "label": "HTML", "value": 1, "color": "darksalmon" },
+      { "label": "CSS", "value": 2, "color": "darkseagreen" },
+      { "label": "Bootstrap5", "value": 3, "color": "darkorchid" }
     ],
     "live": "https://crapemyrtle-convention-center-shova29.netlify.app/",
     "client": "https://github.com/shova29/crapemyrtle-convention-center-shova29"
