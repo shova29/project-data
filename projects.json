@@ -24,7 +24,7 @@
     "image2": "https://i.ibb.co/Qjz907t/winged-wheels-1.png",
     "image3": "https://i.ibb.co/MshLKX7/winged-wheels-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "darkorange" },
+      { "label": "React JS", "value": 1, "color": "darkslateblue" },
       { "label": "Tailwind CSS", "value": 2, "color": "darkcyan" },
       { "label": "React Router", "value": 3, "color": "darkorchid" },
       {
@@ -32,7 +32,7 @@
         "value": 4,
         "color": "midnightblue"
       },
-      { "label": "React-hook-form", "value": 5, "color": "darkslateblue" },
+      { "label": "React-hook-form", "value": 5, "color": "darkorange" },
       { "label": "Node JS", "value": 6, "color": "mediumvioletred" },
       { "label": "Express JS", "value": 7, "color": "lightseagreen" },
       { "label": "React-Query", "value": 8, "color": "coral" },
@@ -70,7 +70,7 @@
     "image2": "https://i.ibb.co/k4DSZV0/purfume-pungent-1.png",
     "image3": "https://i.ibb.co/RPCydSp/purfume-pungent-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "darkorange" },
+      { "label": "React JS", "value": 1, "color": "darkslateblue" },
       { "label": "Tailwind CSS", "value": 2, "color": "darkcyan" },
       { "label": "React Router", "value": 3, "color": "darkorchid" },
       {
@@ -78,7 +78,7 @@
         "value": 4,
         "color": "midnightblue"
       },
-      { "label": "React-hook-form", "value": 5, "color": "darkslateblue" },
+      { "label": "React-hook-form", "value": 5, "color": "darkorange" },
       { "label": "Node JS", "value": 6, "color": "mediumvioletred" },
       { "label": "Express JS", "value": 7, "color": "lightseagreen" },
       { "label": "Axios", "value": 8, "color": "coral" },
@@ -115,7 +115,7 @@
     "image2": "https://i.ibb.co/M98kjsv/wildquestlens-1.png",
     "image3": " https://i.ibb.co/v4WjKhc/wildquestlens-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "darkorange" },
+      { "label": "React JS", "value": 1, "color": "darkslateblue" },
       { "label": "React Bootstrap", "value": 2, "color": "darkcyan" },
       { "label": "React Router", "value": 3, "color": "darkorchid" },
       {
@@ -123,7 +123,7 @@
         "value": 4,
         "color": "midnightblue"
       },
-      { "label": "React Toastify", "value": 5, "color": "darkslateblue" },
+      { "label": "React Toastify", "value": 5, "color": "darkorange" },
       { "label": "React Icons", "value": 6, "color": "mediumvioletred" },
       { "label": "Axios", "value": 7, "color": "lightseagreen" },
       { "label": "MongoDB", "value": 8, "color": "coral" }
@@ -155,7 +155,7 @@
     "image2": "https://i.ibb.co/60zjpB2/sunglass-sanctury-1.png",
     "image3": "https://i.ibb.co/qFDsrHs/sunglass-sanctury-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "darkorange" },
+      { "label": "React JS", "value": 1, "color": "darkslateblue" },
       { "label": "Tailwind CSS", "value": 2, "color": "darkcyan" },
       { "label": "Recharts", "value": 3, "color": "darkorchid" }
     ],
@@ -169,7 +169,7 @@
     "shortDes": "This project is about convention center packages on the CrapeMyrtle Convention Center.",
     "des": [
       {
-        "label ": "The Home page is consists of header section and event's facility"
+        "label": "The Home page is consists of header section and event's facility"
       },
       {
         "label": "The Packages section has several packages of convention center"
@@ -185,7 +185,7 @@
     "image4": "https://i.ibb.co/hHbZ8hS/crapemyrtle-4.png",
     "image5": "https://i.ibb.co/svX6sDs/crapemyrtle-5.png",
     "tech": [
-      { "label": "HTML", "value": 1, "color": "darkorange" },
+      { "label": "HTML", "value": 1, "color": "darkslateblue" },
       { "label": "CSS", "value": 2, "color": "darkcyan" },
       { "label": "Bootstrap5", "value": 3, "color": "darkorchid" }
     ],
