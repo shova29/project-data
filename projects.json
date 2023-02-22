@@ -16,8 +16,8 @@
     "image2": "https://i.ibb.co/Qjz907t/winged-wheels-1.png",
     "image3": "https://i.ibb.co/MshLKX7/winged-wheels-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "darksalmon" },
-      { "label": "Tailwind CSS", "value": 2, "color": "darkseagreen" },
+      { "label": "React JS", "value": 1, "color": "darkorange" },
+      { "label": "Tailwind CSS", "value": 2, "color": "darkcyan" },
       { "label": "React Router", "value": 3, "color": "darkorchid" },
       {
         "label": "Firebase Authentication",
@@ -25,10 +25,10 @@
         "color": "midnightblue"
       },
       { "label": "React-hook-form", "value": 5, "color": "indianred" },
-      { "label": "Node JS", "value": 6, "color": "lightgreen" },
+      { "label": "Node JS", "value": 6, "color": "mediumvioletred" },
       { "label": "Express JS", "value": 7, "color": "lightseagreen" },
-      { "label": "React-Query", "value": 8, "color": "lightsalmon" },
-      { "label": "React Stripe Js", "value": 9, "color": "lightblue" },
+      { "label": "React-Query", "value": 8, "color": "darksalmon" },
+      { "label": "React Stripe Js", "value": 9, "color": "orchid" },
       { "label": "MongoDB", "value": 10, "color": "moccasin" }
     ],
     "live": "https://bicycle-manufacturer-website.web.app/",
@@ -52,8 +52,8 @@
     "image2": "https://i.ibb.co/k4DSZV0/purfume-pungent-1.png",
     "image3": "https://i.ibb.co/RPCydSp/purfume-pungent-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "darksalmon" },
-      { "label": "Tailwind CSS", "value": 2, "color": "darkseagreen" },
+      { "label": "React JS", "value": 1, "color": "darkorange" },
+      { "label": "Tailwind CSS", "value": 2, "color": "darkcyan" },
       { "label": "React Router", "value": 3, "color": "darkorchid" },
       {
         "label": "Firebase Authentication",
@@ -61,10 +61,10 @@
         "color": "midnightblue"
       },
       { "label": "React-hook-form", "value": 5, "color": "indianred" },
-      { "label": "Node JS", "value": 6, "color": "lightgreen" },
+      { "label": "Node JS", "value": 6, "color": "mediumvioletred" },
       { "label": "Express JS", "value": 7, "color": "lightseagreen" },
-      { "label": "Axios", "value": 8, "color": "lightsalmon" },
-      { "label": "MongoDB", "value": 9, "color": "lightblue" }
+      { "label": "Axios", "value": 8, "color": "darksalmon" },
+      { "label": "MongoDB", "value": 9, "color": "orchid" }
     ],
     "live": "https://warehouse-management-web-2b489.web.app/",
     "client": "https://github.com/shova29/warehouse-management-client-side",
@@ -87,8 +87,8 @@
     "image2": "https://i.ibb.co/M98kjsv/wildquestlens-1.png",
     "image3": " https://i.ibb.co/v4WjKhc/wildquestlens-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "darksalmon" },
-      { "label": "React Bootstrap", "value": 2, "color": "darkseagreen" },
+      { "label": "React JS", "value": 1, "color": "darkorange" },
+      { "label": "React Bootstrap", "value": 2, "color": "darkcyan" },
       { "label": "React Router", "value": 3, "color": "darkorchid" },
       {
         "label": "Firebase Authentication",
@@ -96,9 +96,9 @@
         "color": "midnightblue"
       },
       { "label": "React Toastify", "value": 5, "color": "indianred" },
-      { "label": "React Icons", "value": 6, "color": "lightgreen" },
+      { "label": "React Icons", "value": 6, "color": "mediumvioletred" },
       { "label": "Axios", "value": 7, "color": "lightseagreen" },
-      { "label": "MongoDB", "value": 8, "color": "lightsalmon" }
+      { "label": "MongoDB", "value": 8, "color": "darksalmon" }
     ],
     "live": "https://independent-service-prov-a1011.web.app/",
     "client": "https://github.com/shova29/independent-service-provider"
@@ -121,8 +121,8 @@
     "image2": "https://i.ibb.co/60zjpB2/sunglass-sanctury-1.png",
     "image3": "https://i.ibb.co/qFDsrHs/sunglass-sanctury-2.png",
     "tech": [
-      { "label": "React JS", "value": 1, "color": "darksalmon" },
-      { "label": "Tailwind CSS", "value": 2, "color": "darkseagreen" },
+      { "label": "React JS", "value": 1, "color": "darkorange" },
+      { "label": "Tailwind CSS", "value": 2, "color": "darkcyan" },
       { "label": "Recharts", "value": 3, "color": "darkorchid" }
     ],
     "live": "https://product-analysis-shova29.netlify.app/",
@@ -147,8 +147,8 @@
     "image4": "https://i.ibb.co/hHbZ8hS/crapemyrtle-4.png",
     "image5": "https://i.ibb.co/svX6sDs/crapemyrtle-5.png",
     "tech": [
-      { "label": "HTML", "value": 1, "color": "darksalmon" },
-      { "label": "CSS", "value": 2, "color": "darkseagreen" },
+      { "label": "HTML", "value": 1, "color": "darkorange" },
+      { "label": "CSS", "value": 2, "color": "darkcyan" },
       { "label": "Bootstrap5", "value": 3, "color": "darkorchid" }
     ],
     "live": "https://crapemyrtle-convention-center-shova29.netlify.app/",
