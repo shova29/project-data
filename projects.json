@@ -37,7 +37,7 @@
       { "label": "Express JS", "value": 7, "color": "lightseagreen" },
       { "label": "React-Query", "value": 8, "color": "coral" },
       { "label": "React Stripe Js", "value": 9, "color": "orange" },
-      { "label": "MongoDB", "value": 10, "color": "gold" }
+      { "label": "MongoDB", "value": 10, "color": "rebeccapurple" }
     ],
     "live": "https://bicycle-manufacturer-website.web.app/",
     "client": "https://github.com/shova29/manufacturer-website-client-side",
